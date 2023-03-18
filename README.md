@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hardique is serving as a Consultant at Deloitte USI. He is a dynamic Frontend/UI Developer with 3+ years of experience creating streamlined and intuitive controls through programming and design to support engagements with customers. Practiced expert in JavaScript, HTML5, CSS3, and frameworks, including Angular, React, and Ionic. Passionate about implementing scalable solutions. Efficient problem solver with skills in teamwork and delivering projects on time.<br><br>⚠️ My view are personal and do not represent the views of my employer.
+Hardique is a dynamic Frontend/UI Developer with 4 years of experience creating streamlined and intuitive controls through programming and design to support engagements with customers. Practiced expert in JavaScript, HTML5, CSS3, and frameworks, including Angular, React, and Ionic. Passionate about implementing scalable solutions. Efficient problem solver with skills in teamwork and delivering projects on time.
 
 
 ## 🌐 Socials:
